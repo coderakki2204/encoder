@@ -1,0 +1,26 @@
+.subcontent{
+    display: flex;
+    justify-content: center;
+}
+.main-content{
+    width: 40%;
+}
+.side-content{
+    width: 20%;
+    text-align: left;
+    position: relative;
+    bottom: 50px;
+}
+.side-content img{
+    width: 200px;
+    height: auto;
+    display: block;
+}
+.side-content p{
+    font-size: 20px;
+    text-align: justify;
+    line-height: 30px;
+}
+.side-content h2{
+    font-size: 30px;
+}
